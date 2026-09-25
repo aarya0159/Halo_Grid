@@ -1,0 +1,6 @@
+{
+  "name": "Halo Grid Simulator (MVP)",
+  "description": "A public-safety AI operations dashboard and workflow simulator that models face and vehicle recognition pipelines using synthetic watchlist data.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
